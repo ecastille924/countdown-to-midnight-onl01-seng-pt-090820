@@ -6,3 +6,5 @@ def coundtown(number)
   "HAPPY NEW YEAR!"
 end 
 
+countdown(12)
+
